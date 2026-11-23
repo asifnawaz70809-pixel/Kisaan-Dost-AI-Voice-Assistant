@@ -170,9 +170,8 @@ with st.sidebar:
     
     # Agar sidebar se change kiya toh URL param update karo
     if selected_page != st.session_state.page:
-        st.query_params["page"] = selected_page
         st.session_state.page = selected_page
-        st.rerun()
+        st.query_params["page"] = selected_page
     
     st.markdown("---")
     st.markdown('<p style="font-size: 0.9rem; text-align: center; color: #6ee7b7;">👨‍💻 Developer: Asif Nawaz<br>🎓 FYP 2026</p>', unsafe_allow_html=True)
