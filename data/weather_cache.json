@@ -1,0 +1,281 @@
+{
+  "lahore": {
+    "success": true,
+    "provider": "OpenWeatherMap",
+    "city": "Lahore",
+    "country": "PK",
+    "current": {
+      "temp": 19.0,
+      "feels_like": 18.8,
+      "humidity": 72,
+      "wind_kmh": 0.0,
+      "rain_prob": 0,
+      "condition": "Smoke",
+      "urdu_condition": "Dhuwan / Smog",
+      "emoji": "🌫️"
+    },
+    "advice": {
+      "level": "success",
+      "badge": "✅ Mozoon Zarai Mausam",
+      "headline": "Aaj mausam saaf aur mutawazin hai — spray, khad aur katai ke liye behtareen waqt hai.",
+      "tips": [
+        "Pesticide ya fungicide spray subah 10 baje se pehle ya shaam 4 baje ke baad karein.",
+        "Fasal ki zaroorat ke mutabiq mutawazin khad (NPK) aur aabpashi ka schedule jari rakhein.",
+        "Pakki hui fasal ki katai (harvesting) aur safai ke liye aaj ka din bilkul mozoon hai."
+      ]
+    },
+    "forecast": [
+      {
+        "date": "17 Nov",
+        "day_name": "Mangal (Tue)",
+        "min_temp": 15.6,
+        "max_temp": 26.1,
+        "humidity": 20,
+        "wind_kmh": 9.2,
+        "rain_prob": 0,
+        "condition": "Clouds",
+        "urdu_condition": "Thore Badal aur Dhoop",
+        "emoji": "⛅",
+        "action_tag": "✅ Spray / Katai Mozoon"
+      },
+      {
+        "date": "18 Nov",
+        "day_name": "Budh (Wed)",
+        "min_temp": 17.1,
+        "max_temp": 28.3,
+        "humidity": 18,
+        "wind_kmh": 8.0,
+        "rain_prob": 0,
+        "condition": "Clear",
+        "urdu_condition": "Saaf Aasman (Dhoop)",
+        "emoji": "☀️",
+        "action_tag": "✅ Spray / Katai Mozoon"
+      },
+      {
+        "date": "19 Nov",
+        "day_name": "Jumerat (Thu)",
+        "min_temp": 17.1,
+        "max_temp": 29.2,
+        "humidity": 15,
+        "wind_kmh": 11.0,
+        "rain_prob": 0,
+        "condition": "Clear",
+        "urdu_condition": "Saaf Aasman (Dhoop)",
+        "emoji": "☀️",
+        "action_tag": "✅ Spray / Katai Mozoon"
+      },
+      {
+        "date": "20 Nov",
+        "day_name": "Jummah (Fri)",
+        "min_temp": 16.8,
+        "max_temp": 28.4,
+        "humidity": 15,
+        "wind_kmh": 6.7,
+        "rain_prob": 0,
+        "condition": "Clear",
+        "urdu_condition": "Saaf Aasman (Dhoop)",
+        "emoji": "☀️",
+        "action_tag": "✅ Spray / Katai Mozoon"
+      },
+      {
+        "date": "21 Nov",
+        "day_name": "Hafta (Sat)",
+        "min_temp": 17.0,
+        "max_temp": 18.5,
+        "humidity": 20,
+        "wind_kmh": 6.7,
+        "rain_prob": 0,
+        "condition": "Clouds",
+        "urdu_condition": "Gehre Badal",
+        "emoji": "⛅",
+        "action_tag": "✅ Spray / Katai Mozoon"
+      }
+    ]
+  },
+  "karak": {
+    "success": true,
+    "provider": "OpenWeatherMap",
+    "city": "Karak",
+    "country": "PK",
+    "current": {
+      "temp": 20.2,
+      "feels_like": 18.9,
+      "humidity": 27,
+      "wind_kmh": 2.3,
+      "rain_prob": 0,
+      "condition": "Clear",
+      "urdu_condition": "Saaf Aasman (Dhoop)",
+      "emoji": "☀️"
+    },
+    "advice": {
+      "level": "success",
+      "badge": "✅ Mozoon Zarai Mausam",
+      "headline": "Aaj mausam saaf aur mutawazin hai — spray, khad aur katai ke liye behtareen waqt hai.",
+      "tips": [
+        "Pesticide ya fungicide spray subah 10 baje se pehle ya shaam 4 baje ke baad karein.",
+        "Fasal ki zaroorat ke mutabiq mutawazin khad (NPK) aur aabpashi ka schedule jari rakhein.",
+        "Pakki hui fasal ki katai (harvesting) aur safai ke liye aaj ka din bilkul mozoon hai."
+      ]
+    },
+    "forecast": [
+      {
+        "date": "17 Nov",
+        "day_name": "Mangal (Tue)",
+        "min_temp": 16.9,
+        "max_temp": 24.5,
+        "humidity": 25,
+        "wind_kmh": 3.7,
+        "rain_prob": 0,
+        "condition": "Clouds",
+        "urdu_condition": "Thore Badal aur Dhoop",
+        "emoji": "⛅",
+        "action_tag": "✅ Spray / Katai Mozoon"
+      },
+      {
+        "date": "18 Nov",
+        "day_name": "Budh (Wed)",
+        "min_temp": 16.9,
+        "max_temp": 24.9,
+        "humidity": 22,
+        "wind_kmh": 4.8,
+        "rain_prob": 0,
+        "condition": "Clear",
+        "urdu_condition": "Saaf Aasman (Dhoop)",
+        "emoji": "☀️",
+        "action_tag": "✅ Spray / Katai Mozoon"
+      },
+      {
+        "date": "19 Nov",
+        "day_name": "Jumerat (Thu)",
+        "min_temp": 16.7,
+        "max_temp": 25.6,
+        "humidity": 21,
+        "wind_kmh": 6.3,
+        "rain_prob": 0,
+        "condition": "Clouds",
+        "urdu_condition": "Thore Badal aur Dhoop",
+        "emoji": "⛅",
+        "action_tag": "✅ Spray / Katai Mozoon"
+      },
+      {
+        "date": "20 Nov",
+        "day_name": "Jummah (Fri)",
+        "min_temp": 17.3,
+        "max_temp": 24.5,
+        "humidity": 20,
+        "wind_kmh": 4.2,
+        "rain_prob": 0,
+        "condition": "Clouds",
+        "urdu_condition": "Gehre Badal",
+        "emoji": "⛅",
+        "action_tag": "✅ Spray / Katai Mozoon"
+      },
+      {
+        "date": "21 Nov",
+        "day_name": "Hafta (Sat)",
+        "min_temp": 17.1,
+        "max_temp": 18.0,
+        "humidity": 24,
+        "wind_kmh": 7.2,
+        "rain_prob": 0,
+        "condition": "Clouds",
+        "urdu_condition": "Gehre Badal",
+        "emoji": "⛅",
+        "action_tag": "✅ Spray / Katai Mozoon"
+      }
+    ]
+  },
+  "islamabad": {
+    "success": true,
+    "provider": "Open-Meteo (Live)",
+    "city": "Islamabad",
+    "country": "PK",
+    "current": {
+      "temp": 17.7,
+      "feels_like": 16.7,
+      "humidity": 52,
+      "wind_kmh": 2.2,
+      "rain_prob": 0,
+      "condition": "Clear",
+      "urdu_condition": "Saaf Aasman (Dhoop)",
+      "emoji": "☀️"
+    },
+    "advice": {
+      "level": "success",
+      "badge": "✅ Mozoon Zarai Mausam",
+      "headline": "Aaj mausam saaf aur mutawazin hai — spray, khad aur katai ke liye behtareen waqt hai.",
+      "tips": [
+        "Pesticide ya fungicide spray subah 10 baje se pehle ya shaam 4 baje ke baad karein.",
+        "Fasal ki zaroorat ke mutabiq mutawazin khad (NPK) aur aabpashi ka schedule jari rakhein.",
+        "Pakki hui fasal ki katai (harvesting) aur safai ke liye aaj ka din bilkul mozoon hai."
+      ]
+    },
+    "forecast": [
+      {
+        "date": "17 Nov",
+        "day_name": "Mangal (Tue)",
+        "min_temp": 12.4,
+        "max_temp": 22.3,
+        "humidity": 52,
+        "wind_kmh": 7.1,
+        "rain_prob": 0,
+        "condition": "Clear",
+        "urdu_condition": "Saaf Aasman (Dhoop)",
+        "emoji": "☀️",
+        "action_tag": "✅ Spray / Katai Mozoon"
+      },
+      {
+        "date": "18 Nov",
+        "day_name": "Budh (Wed)",
+        "min_temp": 12.1,
+        "max_temp": 22.3,
+        "humidity": 52,
+        "wind_kmh": 8.0,
+        "rain_prob": 0,
+        "condition": "Clear",
+        "urdu_condition": "Saaf Aasman (Dhoop)",
+        "emoji": "☀️",
+        "action_tag": "✅ Spray / Katai Mozoon"
+      },
+      {
+        "date": "19 Nov",
+        "day_name": "Jumerat (Thu)",
+        "min_temp": 11.4,
+        "max_temp": 23.0,
+        "humidity": 52,
+        "wind_kmh": 6.6,
+        "rain_prob": 0,
+        "condition": "Clouds",
+        "urdu_condition": "Gehre Badal",
+        "emoji": "⛅",
+        "action_tag": "✅ Spray / Katai Mozoon"
+      },
+      {
+        "date": "20 Nov",
+        "day_name": "Jummah (Fri)",
+        "min_temp": 12.1,
+        "max_temp": 22.8,
+        "humidity": 52,
+        "wind_kmh": 5.4,
+        "rain_prob": 0,
+        "condition": "Clouds",
+        "urdu_condition": "Gehre Badal",
+        "emoji": "⛅",
+        "action_tag": "✅ Spray / Katai Mozoon"
+      },
+      {
+        "date": "21 Nov",
+        "day_name": "Hafta (Sat)",
+        "min_temp": 11.3,
+        "max_temp": 22.2,
+        "humidity": 52,
+        "wind_kmh": 7.1,
+        "rain_prob": 0,
+        "condition": "Clouds",
+        "urdu_condition": "Gehre Badal",
+        "emoji": "⛅",
+        "action_tag": "✅ Spray / Katai Mozoon"
+      }
+    ]
+  }
+}

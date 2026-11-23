@@ -1,0 +1,11 @@
+Crop,Disease,Healthy_Class,Dataset_Source,Image_Count,Image_Type,License,Label_Verified,Notes
+Tomato,Early Blight,Pending,Pending,Pending,Pending,Pending,No,Not audited yet
+Potato,Late Blight,Pending,Pending,Pending,Pending,Pending,No,Not audited yet
+Rice,Blast,Pending,Pending,Pending,Pending,Pending,No,Not audited yet
+Wheat,Stripe Rust,Pending,Pending,Pending,Pending,Pending,No,Not audited yet
+Maize,Northern Leaf Blight,Pending,Pending,Pending,Pending,Pending,No,Not audited yet
+Cotton,Bacterial Blight,Pending,Pending,Pending,Pending,Pending,No,Not audited yet
+Apple,Scab,Pending,Pending,Pending,Pending,Pending,No,Not audited yet
+Grape,Downy Mildew,Pending,Pending,Pending,Pending,Pending,No,Not audited yet
+Pepper,Bacterial Spot,Pending,Pending,Pending,Pending,Pending,No,Not audited yet
+Cucumber,Downy Mildew,Pending,Pending,Pending,Pending,Pending,No,Not audited yet
