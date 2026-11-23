@@ -4,7 +4,17 @@ import json
 import numpy as np
 import pandas as pd
 from PIL import Image, ImageOps
-import tensorflow as tf
+try:
+    import tensorflow as tf
+except ImportError:
+    try:
+        from ai_edge_litert import interpreter as _litert
+        class _TFCompat:
+            class lite:
+                Interpreter = _litert.Interpreter
+        tf = _TFCompat()
+    except ImportError:
+        tf = None
 
 # =====================================================================
 # MODE SWITCH:
