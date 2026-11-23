@@ -84,7 +84,7 @@ st.markdown(f"""
 
 
 # Groq Client Setup
-api_key = st.secrets.get("GROQ_API_KEY", os.getenv("GROQ_API_KEY"))
+api_key = (st.secrets.get("GROQ_API_KEY") if "GROQ_API_KEY" in st.secrets else os.getenv("GROQ_API_KEY")) or "gsk_placeholder"
 client = OpenAI(base_url="https://api.groq.com/openai/v1", api_key=api_key)
 
 # URL Params se Page Check karo (Clickable Cards ke liye)
