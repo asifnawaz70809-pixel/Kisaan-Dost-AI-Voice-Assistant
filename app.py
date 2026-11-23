@@ -33,7 +33,7 @@ _bg1, _bg2, _accent1, _accent2, _border_glow = _page_palettes.get(
 
 st.markdown(f"""
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&family=Noto+Nastaliq+Urdu:wght@400;600;700&display=swap');
+
 
 .stApp {{
     background: radial-gradient(circle at top right, {_bg2} 0%, {_bg1} 55%, #031711 100%) !important;
